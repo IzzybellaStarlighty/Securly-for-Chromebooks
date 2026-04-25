@@ -1,3 +1,5 @@
+<img width="1441" height="305" alt="image" src="https://github.com/user-attachments/assets/0070488c-47ea-45d6-86cc-fa188237408c" />
+
 What is This?
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 This is a Repository of Source Code for the School Web Filter, Securly for Chromebooks.
